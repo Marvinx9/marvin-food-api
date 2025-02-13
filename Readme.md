@@ -45,3 +45,8 @@ django-admin startproject marvin_food_api
 ### Run the Django Project
 
 py manage.py runserver
+
+### Run the api 
+```bash
+docker-compose up --build
+```
